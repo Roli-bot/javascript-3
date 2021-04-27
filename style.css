@@ -1,0 +1,27 @@
+table
+{
+    
+    font-family: Consolas;
+    font-size: 20px;
+    text-align: right;
+    box-shadow: 5px 10px 8px #4422a0;
+}
+tbody{
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+  th{
+      padding-right: 40px;
+      padding-left: 40px;
+  }
+  
+  
+  thead{
+    
+    background-color: lightblue;
+    color: purple
+    
+  }
